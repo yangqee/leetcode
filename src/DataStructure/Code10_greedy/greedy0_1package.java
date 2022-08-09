@@ -1,4 +1,4 @@
-package DataStructure.greedy;
+package DataStructure.Code10_greedy;
 import java.util.Scanner;
 
 /**

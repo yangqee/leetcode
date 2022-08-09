@@ -1,8 +1,6 @@
-package DataStructure.greedy;
+package DataStructure.Code10_greedy;
 
 import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
